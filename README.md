@@ -1,0 +1,2 @@
+# learndjango
+First django app
